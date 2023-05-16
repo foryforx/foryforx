@@ -14,4 +14,4 @@ Hi, I'm a software developer who loves coding in Golang.<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=foryforx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=foryforx&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=foryforx&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
